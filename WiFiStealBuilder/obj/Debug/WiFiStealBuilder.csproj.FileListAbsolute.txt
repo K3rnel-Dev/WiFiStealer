@@ -1,0 +1,14 @@
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\bin\Debug\WiStealerBuilder.exe.config
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\bin\Debug\WiStealerBuilder.exe
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\bin\Debug\MetroFramework.Design.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\bin\Debug\MetroFramework.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.csproj.AssemblyReference.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.Form1.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.Properties.Resources.resources
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.csproj.GenerateResource.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.csproj.CoreCompileInputs.cache
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiFiStealBuilder.csproj.CopyComplete
+C:\Users\MR-ROBOT\Desktop\BugBounty\WiFiStealBuilder\WiFiStealBuilder\obj\Debug\WiStealerBuilder.exe
